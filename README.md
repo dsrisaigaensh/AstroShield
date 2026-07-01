@@ -258,17 +258,6 @@ yolo predict model=best.pt source=test_images/
 The trained model successfully performs real-time safety equipment detection at **25 FPS**, making it suitable for intelligent monitoring applications in space stations and other safety-critical environments.
 
 ---
-## Output Screenshots
-
-### Real-Time Object Detection
-
-<p align="center">
-  <img src="images/detections.png" alt="Detection Results" width="900">
-</p>
-
-The model successfully detects mission-critical safety equipment including Oxygen Tanks, Nitrogen Tanks, Fire Extinguishers, First Aid Boxes, Fire Alarms, Emergency Phones, and Safety Switch Panels in real time.
-
----
 
 ## Training Performance
 
