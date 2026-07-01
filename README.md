@@ -272,9 +272,6 @@ The model successfully detects mission-critical safety equipment including Oxyge
 
 ## Training Performance
 
-<p align="center">
-  <img src="images/training_results.png" alt="Training Results" width="700">
-</p>
 
 **Final Model Performance**
 
@@ -291,7 +288,7 @@ The model successfully detects mission-critical safety equipment including Oxyge
 ## Sample Detection Output
 
 <p align="center">
-  <img src="images/sample_output.png" alt="Sample Detection" width="900">
+  <img src="output.jpeg" alt="Sample Detection" width="900">
 </p>
 
 The trained YOLOv8 model accurately detects multiple safety objects with high confidence, making it suitable for real-time astronaut safety monitoring.
